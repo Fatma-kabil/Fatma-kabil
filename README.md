@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-kabil&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-kabil" /> </p>
 
-- 🌱 I’m currently learning **Responsive & Adaptive**
+- 🌱 I’m currently learning **Flutter Payment Integration**
 
 - 📫 How to reach me **fatmakhaled112@gmail.com**
 
