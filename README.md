@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatma-kabil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Role-Flutter%20Developer-blue" />
-  <img src="https://img.shields.io/badge/Currently-Working%20on%20Real%20App%20(Payment%20Integration)-brightgreen" />
+  <img src="https://img.shields.io/badge/Currently-Working%20on%20Real%20App-brightgreen" />
 </p>
 
 ---
